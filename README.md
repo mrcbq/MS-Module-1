@@ -108,7 +108,8 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder and change the readme file for your fits.
+Clone this repository:
+git clone https://github.com/mrcbq/MS-Module-1.git to your desired folder and change the readme file for your fits.
 
 <!--
 Example commands:
@@ -122,6 +123,7 @@ Example commands:
 ### Install
 
 Install this project with:
+Open Index.HTML on your favorite browser
 
 <!--
 Example command:
@@ -135,6 +137,8 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+
+Open the index.html on your favorite browser.
 
 <!--
 Example command:
@@ -181,12 +185,6 @@ Example:
 - GitHub: [@mrcbq](https://github.com/mrcbq)
 - Twitter: [@mrcbq](https://twitter.com/mrcbq)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mrcbq)
-<!-- 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
