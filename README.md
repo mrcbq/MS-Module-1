@@ -108,7 +108,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder and change the readme file for your fits.
 
 <!--
 Example commands:
